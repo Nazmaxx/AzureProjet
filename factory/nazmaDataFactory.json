@@ -1,0 +1,15 @@
+{
+	"name": "nazmaDataFactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c0ef8d90-9e37-4490-8fe2-f85d7a9b411f",
+		"tenantId": "f961bd8f-451f-4163-92ae-074e98cbfae2"
+	}
+}
